@@ -1,3 +1,7 @@
 #!/bin/bash
 pwd
+<<<<<<< HEAD
 
+=======
+0-current_working_directory
+>>>>>>> 82294291a58d9173e302b39fab788f6af68e7f4c
