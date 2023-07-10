@@ -1,2 +1,2 @@
 #!/bin/bash 
-find . -maindepthb l -type d | wc -l
+find . -mindepthb l -type d | wc -l
