@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo $ ((2#$BINARY))
+echo "$((2#$BINARY))"
 =======
 echo $ ((2# $BINARY))
 >>>>>>> 75cad565a1c2c7d322911295fae32b8bf838f91c
